@@ -67,10 +67,3 @@ I care about the intersection of **data, finance and entrepreneurship**, which i
 ### Let's connect
 
 📎 [linkedin.com/in/miguelvallejovi](https://linkedin.com/in/miguelvallejovi) · ✉️ [miguelvallejovi@gmail.com](mailto:miguelvallejovi@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelvallejovillegas&show_icons=true&hide_border=true&theme=default&count_private=true" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelvallejovillegas&layout=compact&hide_border=true&theme=default" alt="Top languages" height="160">
-</p>
