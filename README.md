@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Miguel 👋</h1>
 
 <p align="center">
-  Full Stack Developer at <a href="https://palomma.com">Palomma</a> (YC W23) &nbsp;·&nbsp; Former CTO of Cerouno (acquired) &nbsp;·&nbsp; Financial Engineering student &nbsp;·&nbsp; Pastry cook on weekends
+  Full Stack Developer at <a href="https://palomma.com">Palomma</a> (YC W23) &nbsp;·&nbsp; Former CTO of Cerouno (acquired) &nbsp;·&nbsp; Financial Engineering student &nbsp;·&nbsp; Cook on weekends
 </p>
 
 <p align="center">
