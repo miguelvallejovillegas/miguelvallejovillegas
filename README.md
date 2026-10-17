@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Miguel 👋</h1>
 
 <p align="center">
-  Full Stack Developer at <a href="https://palomma.com">Palomma</a> (YC W23) &nbsp;·&nbsp; Former CTO of Cerouno (acquired) &nbsp;·&nbsp; Financial Engineering student &nbsp;·&nbsp; Cook on weekends
+  Full Stack Developer at <a href="https://palomma.com">Palomma</a> (YC W23) &nbsp;·&nbsp; Former CTO of Cerouno &nbsp;·&nbsp; Financial Engineering student &nbsp;·&nbsp; Cook on weekends
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 ### About me
 
-I build features end-to-end for **Palomma Pay**, the largest payment gateway for real estate agencies in Colombia, on a serverless AWS stack. I also lead the **fraud prevention** strategy: security controls, high-risk transaction review, and blocking fraudulent activity with AI agents and ML models.
+I am a full stack developer and build features end-to-end for **Palomma Pay**, the largest payment gateway for real estate agencies in Colombia, on a serverless AWS stack. I also lead the **fraud prevention** strategy: security controls, transaction reviews and fraud scoring, and blocking fraudulent activity with AI agents and ML models.
 
-**At Cerouno** Developed and maintained the whole stack: Python/FastAPI + PostgreSQL backend, an Elasticsearch-powered property search engine, scrapers and ERP integrations to sync inventory automatically, all running on Cloud Run and Kubernetes. We also shipped websites, CRMs and lead-gen tools for agencies, including an MLS-integrated platform for brokers in Miami. When Palomma acquired the company, I led the technical transition and the orderly shutdown of the old infrastructure.
+**At Cerouno** Developed and maintained the whole stack: Python/FastAPI + PostgreSQL backend, an Elasticsearch powered search engine with indexed properties, scrapers and ERP integrations to sync inventory automatically, all running on Cloud Run and Kubernetes. We also shipped websites, CRMs and lead tools for agencies, including an MLS integrated platform for brokers in Miami. When Palomma acquired the company, I led the technical transition and the orderly shutdown of the old infrastructure.
 
 ### Tech Skills
 
